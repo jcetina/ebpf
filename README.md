@@ -1,5 +1,6 @@
 # ebpf
-
+## Starting point for me
+* [Linux Observability with BPF](https://www.amazon.com/gp/product/1492050202) book
 ## Core concepts
 ### Programming model
 - A userspace program loads an ebpf program into the kernel via the [bpf](https://man7.org/linux/man-pages/man2/bpf.2.html) syscall.
